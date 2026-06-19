@@ -1,6 +1,6 @@
 
 
-<h1 align="center">💸 Poupa Pobre</h1>
+<h1 align="center">Poupa Pobre</h1>
 
 <p align="center">
   <strong>Sistema de finanças pessoais — "a planilha evoluída".</strong><br>
@@ -15,7 +15,7 @@
 
 ---
 
-## 📱 Sobre o projeto
+## Sobre o projeto
 
 O **Poupa Pobre** organiza a vida financeira em torno do **mês**: você abre o app e vê
 na hora o que já saiu e o que ainda vem. São 8 módulos — Receitas, Gastos do dia a dia
@@ -31,7 +31,7 @@ em repositórios separados:
 | [**backend**](https://github.com/poupa-pobre/backend) | API Django REST + PostgreSQL |
 | [**documentacao**](https://github.com/poupa-pobre/documentacao) | Visão, requisitos, modelo de dados e fluxo de telas |
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 **Mobile**
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
@@ -50,14 +50,14 @@ em repositórios separados:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
 
-## 👥 Integrantes
+## Integrantes
 
 <!-- Substitua pelos nomes reais da equipe -->
 - [@JuscelinoJunior](https://github.com/JuscelinoJuniorFC)
 - [@lucasRudyson](https://github.com/lucasRudyson)
 
 
-## 🚀 Instruções básicas de execução
+## Instruções básicas de execução
 
 São dois projetos: o **backend** (API) e o **mobile** (app). Suba o backend primeiro.
 
