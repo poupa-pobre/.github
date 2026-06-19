@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="profile/assets/tela-inicial.jpeg" alt="Tela inicial do Poupa Pobre" width="280">
+  <img src="tela-inicial.jpeg" alt="Tela inicial do Poupa Pobre" width="280">
 </p>
 
 ---
